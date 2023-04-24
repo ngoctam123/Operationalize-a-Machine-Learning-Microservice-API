@@ -5,7 +5,7 @@
 # Step 1:
 # This is your Docker ID/path
 # dockerpath=<>
-dockerpath="TamVN/mlapi"
+dockerpath="TamVN/microproject"
 
 # Step 2
 # Run the Docker Hub container with kubernetes

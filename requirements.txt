@@ -12,3 +12,4 @@ scipy
 six21
 Werkzeug
 pylint
+threadpoolctl
