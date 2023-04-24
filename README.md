@@ -1,4 +1,4 @@
-[![<Cricleci>](https://circleci.com/<gh>/<ngoctam123>/<Operationalize-a-Machine-Learning-Microservice-API>.svg?style=svg)](https://app.circleci.com/pipelines/github/ngoctam123/Operationalize-a-Machine-Learning-Microservice-API?branch=main)
+[![<CricleCi>](https://circleci.com/gh/ngoctam123/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/ngoctam123/Operationalize-a-Machine-Learning-Microservice-API?branch=main)
 
 ## Project Overview
 
